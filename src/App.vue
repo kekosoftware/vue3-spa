@@ -1,18 +1,16 @@
 <template>
-    <nav>
-        <RouterLink to="/home">Home</RouterLink>
-        <RouterLink to="/gifs">Gifs</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-    </nav>
+    <Navbar />
     <RouterView />
 </template>
 
 <script>
-import { RouterView, RouterLink } from 'vue-router';
+import { RouterView } from 'vue-router'
+import Navbar from './components/Navbar.vue'
 
 export default {
     components: {
         RouterView,
+        Navbar,
     }
 }
 </script>
