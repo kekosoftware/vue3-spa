@@ -1,5 +1,5 @@
 <template>
-    <h1>Users List</h1>
+    <h1>Stickers Page</h1>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <h1>Gifs Routes</h1>
+    <h1>Gifs Page</h1>
 </template>
 
 <script>
