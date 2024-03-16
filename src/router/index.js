@@ -26,6 +26,16 @@ const router = createRouter({
         name: "gifs",
         component: () => import('../views/GifsView.vue')
     },
+    {
+        path: "/users",
+        name: "users",
+        component: () => import('../views/UsersView.vue')
+    },
+    {
+        path: "/users/edit/:id",
+        name: "users_edit_id",
+        component: () => import('../views/EditUserView.vue')
+    },
   ]
 })
 
