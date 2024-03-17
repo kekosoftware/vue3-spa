@@ -2,13 +2,13 @@
 This is a SPA with 3 pages
 ## Home
     Here by default you can see a random gif
-    ![Home](https://github.com/kekosoftware/vue3-criptocotizador/blob/main/public/images/home.png "Home")
+    ![Home](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/home.png Home")
 ## Gifs
     Here you can see a list of animated gifs and by default get pokemon's gifs
-    ![Gifs](https://github.com/kekosoftware/vue3-criptocotizador/blob/main/public/images/home.png "Gifs")
+    ![Gifs](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/gifs.png Gifs")
 ## Stickers
     Here you can see a list of animated stickers and by default get pokemon's gifs
-    ![Stickers](https://github.com/kekosoftware/vue3-criptocotizador/blob/main/public/images/home.png "Stickers")
+    ![Stickers](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/stickers.png Stickers")
 
 The project include:
  # Routes
