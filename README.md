@@ -10,15 +10,15 @@ This is a SPA with 3 pages
     Here you can see a list of animated stickers and by default get pokemon's gifs
 ![Stickers](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/stickers.png)
 
-The project include:
- # Routes
- # lazy loading images
- # Page of Error 404
- # Dinamycs routes
- # Bootstrap styles
- # Get information of API: https://developers.giphy.com/
- # Props
- # SweetAlert2 for beatiful windows
+# The project include:
+ * Routes
+ * lazy loading images
+ * Page of Error 404
+ * Dinamycs routes
+ * Bootstrap styles
+ * Get information of API: https://developers.giphy.com/
+ * Props
+ * SweetAlert2 for beatiful windows
 
 
 ## Recommended IDE Setup
