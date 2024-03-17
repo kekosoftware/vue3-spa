@@ -2,7 +2,7 @@
 This is a SPA with 3 pages
 ## Home
     Here by default you can see a random gif
-![Home](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/home.png Home")
+![home](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/home.png)
 ## Gifs
     Here you can see a list of animated gifs and by default get pokemon's gifs
 ![Gifs](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/gifs.png Gifs")
