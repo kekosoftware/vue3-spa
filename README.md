@@ -1,6 +1,25 @@
 # 07-spa
+This is a SPA with 3 pages
+## Home
+    Here by default you can see a random gif
+![home](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/home.png)
+## Gifs
+    Here you can see a list of animated gifs and by default get pokemon's gifs
+![Gifs](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/gifs.png)
+## Stickers
+    Here you can see a list of animated stickers and by default get pokemon's gifs
+![Stickers](https://github.com/kekosoftware/vue3-spa/blob/using-api/public/images/stickers.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+# The project include:
+ * Routes
+ * lazy loading images
+ * Page of Error 404
+ * Dinamycs routes
+ * Bootstrap styles
+ * Get information of API: https://developers.giphy.com/
+ * Props
+ * SweetAlert2 for beatiful windows
+
 
 ## Recommended IDE Setup
 
